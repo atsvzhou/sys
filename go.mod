@@ -1,4 +1,4 @@
-module sys
+module github.com/atsvzhou/sys
 
 go 1.15
 
